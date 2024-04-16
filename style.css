@@ -1,0 +1,110 @@
+body {
+    background-color:hsl(30, 54%, 90%);
+}
+
+.page {
+    background-color: white;
+    margin-right: 28%;
+    margin-left: 28%;
+    margin-top: 12%;
+    margin-bottom: 10%;
+    padding: 3%;
+    border-radius: 15px;
+}
+
+
+img {
+    max-width:100%;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: "Young Serif";
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(14, 45%, 36%);
+}
+
+h1 {
+    font-family: "Young Serif";
+    font-weight: 550;
+    font-style: normal;
+    font-size: xx-large;
+    color: hsl(24, 5%, 18%);
+}
+
+.Description {
+    margin: auto;
+    font 
+}
+
+h3 {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: hsl(332, 51%, 32%);
+}
+
+p {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: eggshell; 
+}
+
+li {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 8px;
+    padding: 0px 20px;
+}
+
+ul, ol {
+    padding:0px 20px;
+}
+
+.first-word {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    color: hsl(24, 5%, 18%);
+}
+.Preparation {
+    background-color: hsl(330, 100%, 98%);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 4%;
+    padding-right: 0%;
+    border-radius: 15px;
+}
+
+td {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: eggshell; 
+    padding: .75rem 2rem;
+    margin-bottom: 10px;
+}
+
+.stats {
+    font-weight: 700;
+    color: hsl(332, 51%, 32%);
+}
+
+.Ingredients {
+}
+
+.Instructions {
+
+}
+
+.NutritionTable {
+    ;
+}
