@@ -92,19 +92,14 @@ td {
     padding: .75rem 2rem;
     margin-bottom: 10px;
 }
-
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+tr {
+    border-bottom: 1px solid lightgrey;
+}
 .stats {
     font-weight: 700;
     color: hsl(332, 51%, 32%);
-}
-
-.Ingredients {
-}
-
-.Instructions {
-
-}
-
-.NutritionTable {
-    ;
 }
